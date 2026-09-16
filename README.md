@@ -1,4 +1,10 @@
-## 👋 Hi, I'm Mark
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Mark!&fontSize=45&fontAlignY=35&animation=twinkling" />
+</p>
+
+<p align="center">
+  🎓 Applied Informatics student • 💻 Developer in progress
+</p>
 
 🎓 Applied Informatics student  
 💻 Learning programming and web development
@@ -32,10 +38,12 @@ I enjoy learning how things work and turning ideas into working projects.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-*More projects and contributions coming soon...*
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chobupeli&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chobupeli&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 📫 Contact
