@@ -44,6 +44,7 @@ I enjoy learning how things work and turning ideas into working projects.
   <img src="https://github-readme-stats.vercel.app/api?username=Chobupeli&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chobupeli&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## 📫 Contact
