@@ -86,6 +86,22 @@ key technologies, an animated neural network on canvas and a mini-quiz
 
 ---
 
+## 📚 Courses & Certifications
+
+<p align="left">
+  <a href="https://stepik.org/cert/3052387">
+    <img src="https://img.shields.io/badge/Stepik-C++_для_начинающих-4CAF50?style=for-the-badge&logo=stepik&logoColor=white" />
+  </a>
+  <a href="https://stepik.org/cert/3170856">
+    <img src="https://img.shields.io/badge/Stepik-Поколение_Python-4CAF50?style=for-the-badge&logo=stepik&logoColor=white" />
+  </a>
+</p>
+
+- ✅ **[C++ для начинающих](https://stepik.org/cert/3052387)** — Stepik
+- ✅ **[«Поколение Python»: курс для начинающих](https://stepik.org/cert/3170856)** — Stepik
+
+---
+
 ## 📫 Contact
 
 <p align="left">
