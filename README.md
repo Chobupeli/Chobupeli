@@ -74,4 +74,4 @@ I enjoy learning how things work and turning ideas into working projects.
 ---
 
 ## 🌐 Демо-версия
-[Открыть демо]()
+[Открыть демо](https://Chobupeli.github.io/ai-website/)
