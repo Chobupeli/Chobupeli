@@ -3,11 +3,11 @@
 </p>
 -----
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=140&lines=%3E+whoami;Mark+%7C+Applied+Informatics+student;%3E+cat+skills.txt;C%2B%2B+%7C+Python+%7C+HTML+%7C+CSS+%7C+JS;%3E+_%E2%96%8A" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=600&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%5B+root%40github+%5D%24+./run+profile.sh;Loading+modules...+OK;Initializing+dev.exe...+OK;Welcome%2C+Chobupeli." />
 </p>
----------
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:00FF41&height=200&section=header&text=Chobupeli&fontSize=60&fontColor=00FF41&fontAlignY=40&animation=twinkling&desc=Applied%20Informatics%20Student&descAlignY=60&descSize=18&descColor=AAAAAA" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF41&height=3&section=header" />
 </p>
 ----------
 <p align="center">
