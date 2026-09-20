@@ -1,11 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Mark!&fontSize=45&fontAlignY=35&animation=twinkling" />
 </p>
------
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=180&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%94%82+%24+ssh+chobupeli%40github+%E2%94%82;%E2%94%82+Connected.+Welcome.+%E2%94%82;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D" />
-</p>
-----------
+
 <p align="center">
   <a href="https://github.com/Chobupeli">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Applied+Informatics+Student;Learning+C%2B%2B+and+Python;Building+things+for+the+web;Exploring+AI+%26+ML" />
