@@ -3,11 +3,7 @@
 </p>
 -----
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=600&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%5B+root%40github+%5D%24+./run+profile.sh;Loading+modules...+OK;Initializing+dev.exe...+OK;Welcome%2C+Chobupeli." />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF41&height=3&section=header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=180&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%94%82+%24+ssh+chobupeli%40github+%E2%94%82;%E2%94%82+Connected.+Welcome.+%E2%94%82;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D" />
 </p>
 ----------
 <p align="center">
