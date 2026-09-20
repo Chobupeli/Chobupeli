@@ -1,12 +1,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Mark!&fontSize=45&fontAlignY=35&animation=twinkling" />
 </p>
-
+-----
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=140&lines=%3E+whoami;Mark+%7C+Applied+Informatics+student;%3E+cat+skills.txt;C%2B%2B+%7C+Python+%7C+HTML+%7C+CSS+%7C+JS;%3E+_%E2%96%8A" />
 </p>
-
-
+---------
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:00FF41&height=200&section=header&text=Chobupeli&fontSize=60&fontColor=00FF41&fontAlignY=40&animation=twinkling&desc=Applied%20Informatics%20Student&descAlignY=60&descSize=18&descColor=AAAAAA" />
+</p>
+----------
 <p align="center">
   <a href="https://github.com/Chobupeli">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Applied+Informatics+Student;Learning+C%2B%2B+and+Python;Building+things+for+the+web;Exploring+AI+%26+ML" />
